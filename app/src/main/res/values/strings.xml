@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Facebook Login</string>
+
+    <string name="facebook_app_id">1726655347470386</string>
+    <string name="fb_login_protocol_scheme">fb1726655347470386</string>
+
+</resources>
